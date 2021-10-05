@@ -44,7 +44,7 @@ const ProductCard = (props) => {
             {durationHours} h {durationMins} min
           </Text>
           <Text style={styles.title}>
-            {name.length > 15 ? name.substring(0, 15 - 3) + "..." : name}
+            {name.length > 25 ? name.substring(0, 15 - 3) + "..." : name}
           </Text>
           <Text style={{ fontSize: 14, fontWeight: "300" }}>{description}</Text>
         </View>
