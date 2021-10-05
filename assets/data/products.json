@@ -1,0 +1,102 @@
+[
+  {
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://images.unsplash.com/photo-1600195077909-46e573870d99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2940&q=80",
+    "brand": "PS3",
+    "price": 250,
+    "rating": 1,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "React JS + Modern Redux",
+    "description": "Advanced mobile interface design",
+    "category": {
+      "$oid": "5f15d5cdcb4a6642bddc0fe9"
+    },
+    "countInStock": 25,
+    "__v": 0,
+    "durationMins": 30,
+    "durationHours": 3
+  },
+  {
+    "_id": {
+      "$oid": "5f15d92ee520d44421ed8e9b"
+    },
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80",
+    "brand": "IKEA",
+    "price": 350.9,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Vue.js + Nuxt.js",
+    "description": "Advanced mobile interface design",
+    "category": {
+      "$oid": "5f15d5b7cb4a6642bddc0fe8"
+    },
+    "countInStock": 10,
+    "__v": 0,
+    "durationMins": 30,
+    "durationHours": 3
+  },
+  {
+    "_id": {
+      "$oid": "5f15d964e520d44421ed8e9c"
+    },
+    "image": "https://media.istockphoto.com/photos/top-above-high-angle-view-portrait-of-his-he-nice-attractive-focused-picture-id1279133399?b=1&k=20&m=1279133399&s=170667a&w=0&h=NQlgTmoZq5oFrqWKN6-AfbdP0E_mpMEo5kfgtzITdOc=",
+    "brand": "OBI",
+    "price": 1350.9,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "MERN Stack",
+    "description": "Advanced mobile interface design",
+    "category": {
+      "$oid": "5f15d5b7cb4a6642bddc0fe8"
+    },
+    "countInStock": 10,
+    "__v": 0,
+    "durationMins": 30,
+    "durationHours": 3
+  },
+  {
+    "_id": {
+      "$oid": "5f15d9b3e520d44421ed8e9d"
+    },
+    "image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80",
+    "brand": "OBI",
+    "price": 490.9,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Django",
+    "description": "Advanced mobile interface design",
+    "category": {
+      "$oid": "5f15d5b7cb4a6642bddc0fe8"
+    },
+    "countInStock": 5,
+    "__v": 0,
+    "durationMins": 30,
+    "durationHours": 3
+  },
+  {
+    "_id": {
+      "$oid": "5f15da13e520d44421ed8e9e"
+    },
+    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2071&q=80",
+    "brand": "Mobilix",
+    "price": 1000,
+    "rating": 5,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Advanced CSS",
+    "description": "Advanced mobile interface design",
+    "category": {
+      "$oid": "5f15d5b2cb4a6642bddc0fe7"
+    },
+    "countInStock": 2,
+    "__v": 0,
+    "durationMins": 30,
+    "durationHours": 3
+  }
+]
